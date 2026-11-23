@@ -1,0 +1,7 @@
+WORKOUT LOG REPORT
+===================================
+ID: 1 | Exercise: Bench Press | Muscle: Chest | Weight: 60 kg
+ID: 2 | Exercise: Squat | Muscle: Legs | Weight: 80 kg
+ID: 3 | Exercise: Lat Pulldown | Muscle: Back | Weight: 50 kg
+===================================
+Total workouts: 3
